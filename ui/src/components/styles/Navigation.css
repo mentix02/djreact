@@ -1,0 +1,13 @@
+a {
+  color: blue;
+}
+
+.link {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.active {
+  color: orange;
+}
